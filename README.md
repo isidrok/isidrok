@@ -1,6 +1,6 @@
 # Hi! I'm Isidro Torregrosa
 
-Lead Engineer focused on **Product Engineering**, **Web Development**, and **AI Tooling**.
+I build web products and write about some interesting stuff—**TypeScript**, **Node.js**, **Web Development**, and lately **AI tooling**.
 
 ## Projects
 
