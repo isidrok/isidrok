@@ -1,6 +1,6 @@
 # Hi! I'm Isidro Torregrosa
 
-I build web products and write about some interesting stuff—**TypeScript**, **Node.js**, **Web Development**, and lately **AI tooling**.
+I like web dev and write about some interesting stuff—**TypeScript**, **Node.js**, **Web Development**, and lately **AI tooling**.
 
 ## Projects
 
